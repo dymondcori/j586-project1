@@ -119,10 +119,10 @@ padding: 1em;
   margin-bottom: 2em;
   box-shadow: 1px 2px 1px #000;
 }
-img.ad2 {
+/*img.ad2 {
   position: absolute;
   top: -8px;
-}
+} */
 
 .inline {
   display: inline-block;
@@ -256,9 +256,11 @@ img.low {
     border-right: 1px solid #DDD;
     height: 50px;
     padding: 1em 0px 0px;
+    text-align: center;
 }
 .footer-4-block {
     margin: 0px auto;
     display: block;
     text-align: center;
+    padding: 10px auto;
 }

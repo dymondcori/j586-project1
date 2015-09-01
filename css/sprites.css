@@ -1,0 +1,133 @@
+.dash, .dashgreen, .head, .headgreen, .bubblegreen, .bubble, .notegreen, .note, .bars, .barsgreen, .settingsgray, .iconcheck, .iconpage, .iconbulb, .buttonright, .buttonleft, .question, .question{
+	background: url(../images/sprites.png) no-repeat;
+}
+
+#navlist {
+    position: relative;
+}
+
+#navlist li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    position: absolute;
+    top: 0;
+}
+
+#navlist li, #navlist a {
+    height: 44px;
+    display: block;
+}
+
+.dash{
+	background-position: -2px 0;
+	width: 60px;
+	height: 73px;
+}
+.dash a:hover {
+	background-position: 0 -86px ;
+	width: 58px;
+	height: 58px;
+}
+
+/*.dashgreen{
+	background-position: 0 -86px ;
+	width: 58px;
+	height: 58px;
+} */
+
+.head{
+	background-position: -88px -5px ;
+	width: 62px;
+	height: 64px;
+}
+
+.headgreen{
+	background-position: -81px -94px ;
+	width: 62px;
+	height: 42px;
+}
+
+.bubblegreen{
+	background-position: -172px -92px ;
+	width: 57px;
+	height: 48px;
+}
+
+.bubble{
+	background-position: -172px -9px ;
+	width: 60px;
+	height: 65px;
+}
+
+.notegreen{
+	background-position: -253px -88px ;
+	width: 45px;
+	height: 50px;
+}
+
+.note{
+	background-position: -251px -10px ;
+	width: 50px;
+	height: 70px;
+}
+
+.bars{
+	background-position: -320px -5px ;
+	width: 50px;
+	height: 70px;
+}
+
+.barsgreen{
+	background-position: -314px -89px ;
+	width: 42px;
+	height: 50px;
+}
+
+.settingsgray{
+	background-position: -409px -14px ;
+	width: 20px;
+	height: 20px;
+}
+
+.iconcheck{
+	background-position: -166px -172px ;
+	width: 22px;
+	height: 32px;
+}
+
+.iconpage{
+	background-position: -65px -167px ;
+	width: 19px;
+	height: 35px;
+}
+
+.iconbulb{
+	background-position: -115px -167px ;
+	width: 22px;
+	height: 39px;
+}
+
+.buttonright{
+	background-position: -406px -167px ;
+	width: 22px;
+	height: 22px;
+}
+
+.buttonleft{
+	background-position: -358px -168px ;
+	width: 22px;
+	height: 22px;
+}
+
+.question{
+	background-position: -409px -66px ;
+	width: 20px;
+	height: 20px;
+}
+
+.question{
+	background-position: -409px -118px ;
+	width: 20px;
+	height: 20px;
+}
